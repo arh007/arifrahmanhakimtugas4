@@ -2,6 +2,4 @@
 Untuk memenuhi tugas rest API matakuliah pemrograman mobile
 Berikut ini tampilan aplikasi saat dijalankan
 
-
-
-https://user-images.githubusercontent.com/95526595/147234035-f2b2e9f7-445d-4049-8fda-4746e631d2f9.mp4
+![GIF-211223_192333](https://user-images.githubusercontent.com/95526595/147235810-54ada3a1-f596-4a7c-a14d-fbb3a958643f.gif)
